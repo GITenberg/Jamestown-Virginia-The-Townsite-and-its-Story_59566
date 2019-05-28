@@ -1,0 +1,25 @@
+_repo: Jamestown-Virginia-The-Townsite-and-its-Story_59566
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hatch, Charles E.
+    gutenberg_agent_id: '34827'
+    url: http://www.gutenberg.org/2009/agents/34827
+  - agent_name: Jr.
+    gutenberg_agent_id: '50513'
+    url: http://www.gutenberg.org/2009/agents/50513
+description: ''
+gutenberg_issued: '2019-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jamestown, Virginia
+
+  The Townsite and its Story'
+url: http://www.gutenberg.org/ebooks/59566
