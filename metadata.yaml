@@ -1,5 +1,8 @@
 _repo: Jamestown-Virginia-The-Townsite-and-its-Story_59566
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59566-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hatch, Charles E.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50513'
     url: http://www.gutenberg.org/2009/agents/50513
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59566#Jamestown-Virginia-The-Townsite-and-its-Story
 gutenberg_issued: '2019-05-21'
 gutenberg_type: Text
 identifiers:
